@@ -9,3 +9,27 @@ h1{
 color: purple;
 
 }
+
+#bio-image{
+    float: left;
+    margin-right: 25px;
+    width: 30%
+}
+
+#main-bio{
+    width: 70%;
+    margin: 0 auto;
+}
+
+#header{
+    background-color: blue;
+    height: 75px;
+    padding-top: 20px;
+}
+
+#contact-info{
+    float: right;
+    width: 30%;
+    margin: 0% auto;
+    line-height: 150%;
+}
